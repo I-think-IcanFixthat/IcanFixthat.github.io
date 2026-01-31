@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Guides • ExampleNiche</title>
+  <meta name="description" content="All guides and comparisons." />
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="wrap header">
+    <a class="brand" href="/">ExampleNiche</a>
+    <nav class="nav">
+      <a href="/guides.html">Guides</a>
+      <a href="/about.html">About</a>
+      <a href="/disclosure.html">Disclosure</a>
+    </nav>
+  </header>
+
+  <main class="wrap">
+    <h1>Guides</h1>
+    <p class="muted">Start with the highest-intent topics first.</p>
+
+    <div class="grid">
+      <article class="card">
+        <h2><a href="/posts/best-____-for-____.html">Best ____ for ____ (2026)</a></h2>
+        <p>Replace underscores and add real affiliate links.</p>
+      </article>
+      <article class="card">
+        <h2><a href="/posts/____-alternatives.html">Best Alternatives to ____</a></h2>
+        <p>These pages often convert well.</p>
+      </article>
+    </div>
+  </main>
+
+  <footer class="wrap footer">
+    <p>© <span id="y"></span> ExampleNiche</p>
+  </footer>
+  <script>document.getElementById("y").textContent = new Date().getFullYear();</script>
+</body>
+</html>
