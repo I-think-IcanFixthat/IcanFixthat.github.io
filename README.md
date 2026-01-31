@@ -1,1 +1,18 @@
-# IcanFixthat.github.io
+index.html
+styles.css
+sitemap.xml
+robots.txt
+about.html
+disclosure.html
+privacy.html
+guides/index.html
+guides/appliances.html
+guides/plumbing.html
+guides/hvac.html
+guides/doors-hardware.html
+posts/replace-toilet-flapper.html
+posts/replace-toilet-fill-valve.html
+posts/replace-dryer-belt.html
+posts/replace-dishwasher-door-gasket.html
+posts/replace-faucet-cartridge.html
+posts/measure-furnace-filter.html
