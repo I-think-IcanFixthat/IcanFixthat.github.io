@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://icanfixthat.github.io/sitemap.xml
+Sitemap: https://i-think-icanfixthat.github.io/sitemap.xml
