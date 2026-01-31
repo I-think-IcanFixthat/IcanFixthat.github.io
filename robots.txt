@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://icanfixthat.github.io/sitemap.xml
